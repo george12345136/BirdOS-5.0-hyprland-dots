@@ -1,6 +1,8 @@
 # BirdOS-5.0-hyprland-dots
 This is the the new version of BirdOS Hyprland setup!
 
+Release notes: https://birdos-home.blogspot.com/2025/12/birdos-5.html
+
 WARNING: WE STILL DID NOT HAVE MADE AN INSTALLER SCRIPT, THIS IS A MANUAL INSTALL, DONT MESS UP!
 
 NOTE: Installer script may release in a point release of BirdOS 5.x or 6.X or 7.x
